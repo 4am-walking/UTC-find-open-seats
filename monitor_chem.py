@@ -1,5 +1,4 @@
 import requests
-import json
 
 pilotURL = "https://sis-reg.utc.edu:443/StudentRegistrationSsb/ssb/term/search?mode=search"
 jsonURL = "https://sis-reg.utc.edu:443/StudentRegistrationSsb/ssb/searchResults/searchResults?txt_courseNumber=1120&txt_keywordlike=General%2520Chemistry%2520II&txt_term=202440&startDatepicker=&endDatepicker=&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc"
